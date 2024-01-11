@@ -93,6 +93,19 @@ const tours = [
     tourFooterDays: "20 days",
     tourFooterPrice: "from $3300",
   },
+  {
+    id: 4,
+    img: tour4,
+    tourDate: "december 5th, 2019",
+    tourTitle: "kenya highlights Test",
+    tourTitleText:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque" +
+      "vitae tempore voluptatum maxime reprehenderit eum quod" +
+      "exercitationem fugit, qui corporis.",
+    tourFooterSpan: "kenya",
+    tourFooterDays: "20 days",
+    tourFooterPrice: "from $3300",
+  },
 ];
 
 export { pageLinks, socialLinks, services, tours };
